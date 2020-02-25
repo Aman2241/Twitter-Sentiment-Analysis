@@ -30,9 +30,9 @@ Replace the placeholder values with the keys you obtained from Twitter and save 
 1. Now, from your terminal, type `python app.py` to start the server. Open a browser and go to `http://localhost:5000` to see the visualization.
 
 ## Authors
-1. Sangeeth Sudheer
-2. Amol Suraj Mishra
-3. Aadithyavarma
+1. Aman Raj
+2. Prashant Kumar
+3. Saurav Kumar
 
 ## Screenshots
 
