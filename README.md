@@ -45,4 +45,4 @@ Replace the placeholder values with the keys you obtained from Twitter and save 
 ![](https://i.imgur.com/jcL2Nyb.png)
 
 
-Thannkx for visiting @Aman
+Thankx for visiting @Aman
