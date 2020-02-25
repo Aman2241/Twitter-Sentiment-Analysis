@@ -1,5 +1,4 @@
 # Tweet Sentiment Analysis V2
-Based on [labeled-tweet-generator by @rhnvrm](https://github.com/rhnvrm/labeled-tweet-generator).
 
 ## Instructions
 
@@ -44,3 +43,6 @@ Replace the placeholder values with the keys you obtained from Twitter and save 
 ![](https://i.imgur.com/dPx8M05.png)
 
 ![](https://i.imgur.com/jcL2Nyb.png)
+
+
+Thannkx for visiting @Aman
